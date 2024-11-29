@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Playlist Converter
 
 ## Description 📄
