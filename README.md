@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Playlist Converter
 
 ## Description 📄
@@ -50,3 +51,6 @@ ability.
 
 4. Playlist Not Found
 If the tool is unable to find tracks in the Spotify search, ensure that the titles in the YouTube playlist match the actual track names as closely as possible. You can also manually edit the playlist titles for better accuracy.
+=======
+# playlist-converter
+>>>>>>> 6efb11cc20178493eca6023294f7e7f1b06a5816
