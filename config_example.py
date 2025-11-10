@@ -1,0 +1,4 @@
+# Example configuration file — fill with your own keys locally
+YOUTUBE_API_KEY = "YOUR_YOUTUBE_API_KEY"
+SPOTIFY_CLIENT_ID = "YOUR_SPOTIFY_CLIENT_ID"
+SPOTIFY_CLIENT_SECRET = "YOUR_SPOTIFY_CLIENT_SECRET"
